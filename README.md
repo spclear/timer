@@ -24,7 +24,7 @@
   </ol>
     
   <h3>calcTimeRemaining()</h3> 
- Function calcTimeRemaining unction takes deadline as parameter and returns object that contains:
+ Function calcTimeRemaining takes deadline as parameter and returns object that contains:
   <ul style="list-style-type:disc;">
     <li> total: total amount of milliseconds left; </li>  
     <li> days: total amount of days left; </li> 
